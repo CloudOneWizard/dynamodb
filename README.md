@@ -6,6 +6,4 @@
  This is a student Lab not intened to real world use.
  No guaranteer is given or implied.
  
- Have fun
-A Cloud Guru
-https://acloud.guru/
+https://cloudonewizard.com
